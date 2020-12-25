@@ -1,2 +1,2 @@
-# m4l-color-coder
-A M4L device to define a color scheme for your tracks
+# M4L Color Coder
+A M4L device to define a color scheme for your tracks.
